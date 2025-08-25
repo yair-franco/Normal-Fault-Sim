@@ -1,1 +1,1 @@
-Meshing code written by SeisSol development team.
+Meshing scripts written by SeisSol development team.
